@@ -248,12 +248,12 @@ the /etc directory is forbidden ground.
 
     Reference: FHS 5.10.1                   /var/log/<package>
 
-## START Quote from the FHS v3.0
+**START Quote from the FHS v3.0**
 ```
    This directory contains miscellaneous log files. Most logs must
    be written to this directory or an appropriate subdirectory.
 ```
-## STOP Quote from the FHS v3.0
+**STOP Quote from the FHS v3.0**
 
 ##  {*}  Proposal for the Pi-hole package:
 
